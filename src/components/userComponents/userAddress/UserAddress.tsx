@@ -17,10 +17,10 @@ import {
 import "./UserAddress.css";
 
 const UserAddress = () => {
-  const [userAddresses, setUserAddresses] = useState<IUserAddress[]>([]);
-  const [showAddForm, setShowAddForm] = useState(false);
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [isDisabled, setIsDisabled] = useState<boolean>(false);
+  const [showAddForm, setShowAddForm] = useState(false);
+  const [userAddresses, setUserAddresses] = useState<IUserAddress[]>([]);
 
   const {
     register,
