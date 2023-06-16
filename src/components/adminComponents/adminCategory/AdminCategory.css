@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.add_category_div{
+    margin: 50px auto;
+    width: 400px;
+    min-height: 200px;
+    background-color: aliceblue;
+    padding: 50px;
+
+}
+.category_field{
+    margin-top: 20px;
+    
+}
+.add_btn{
+    padding: 5px 10px;
+    background-color: crimson;
+    color: white;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    margin-top: 50px;
+}
+.category_field{
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+
+    outline: none;
+}

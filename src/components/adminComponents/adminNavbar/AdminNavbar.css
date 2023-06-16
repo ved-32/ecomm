@@ -1,0 +1,13 @@
+.admin_logout_btn{
+    margin-left: 60px;
+    cursor: pointer;
+    color: crimson;
+    background-color: white;
+   
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+}
+

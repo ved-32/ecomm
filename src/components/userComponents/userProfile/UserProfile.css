@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.edit_profile,.profile_div{
+    margin: 20px auto;
+    background-color: rgb(208, 243, 244);
+    width: 500px;
+    font-size: 18px;
+    padding: 30px;
+
+}
+.profile_input{
+    width: 100%;
+    height: 40px;
+    padding: 3px;
+    font-size: 17px;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+}
+.save_profilr{
+    background-color: rgb(136, 237, 136);
+}
+.profile_info{
+  border-bottom: 2px solid gray;
+  margin-bottom: 10px;
+  font-weight:700;
+
+  
+}
+.btn_on_profile{
+    padding: 10px 20px;
+    border: 2px solid rgb(145, 145, 239);
+    outline: none;
+    font-size: 19px;
+    color: white;
+    background-color: rgb(117, 117, 246);
+    border-radius: 25px;
+    margin-left: 850px;
+    margin-top: 20px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin:  0;
+    box-sizing: border-box;
+}
+.user_navbar{
+    width: 100%;
+    padding: 20px 30px;
+    background-color: crimson;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    /* position: fixed;
+    top: 0;
+    left: 0; */
+}
+.whishlist{
+    margin-left: 50px;
+}
+.welcom_user{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: cornsilk;
+    padding: 20px;
+}
+.user_photo_nav{
+   padding-left: 100px;
+}
+
+.logout button{
+    padding: 5px 15px;
+    background-color:white;
+    color:crimson;
+    border-radius: 25px;
+    outline: none;
+    font-size: 24px;
+    border: none;
+    margin-left: 20px;
+    cursor: pointer;
+    
+}
+

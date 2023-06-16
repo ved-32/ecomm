@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.all_pro_div{
+    width: 70%;
+    min-height:100px;
+    padding: 50px;
+    margin: 50px auto;
+    
+    
+}
+.product{
+    width: 100%;
+    min-height: 100px;
+    padding: 30px;
+    border-bottom: 50px;
+    border-bottom: 1px solid gray;
+    display: flex;
+    gap: 20px;
+    
+}
+.edit_pro_edit,.delete_pro_edit{
+    padding: 9px 15px;
+    font-size: 18px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.edit_pro_edit{
+    background-color: rgb(84, 225, 84);
+    color: white;
+    margin-right: 20px;
+}
+.delete_pro_edit{
+    background-color:crimson;
+    color: white;
+}
+.btn_div_edit_del{
+    display: flex;
+    align-items: center;
+    width: 300px;
+    justify-content: end;
+    margin-top: 20px;
+}
